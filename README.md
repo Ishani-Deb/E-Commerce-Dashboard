@@ -1,1 +1,1 @@
-![](https://github.com/Ishani-Deb/E-Commerce-Dashboard/blob/main/dashboard%20video.mp4)
+![]([https://github.com/Ishani-Deb/E-Commerce-Dashboard/blob/main/dashboard%20video.mp4](https://github.com/Ishani-Deb/E-Commerce-Dashboard/blob/main/dashboard%20gif.gif)https://github.com/Ishani-Deb/E-Commerce-Dashboard/blob/main/dashboard%20gif.gif)
